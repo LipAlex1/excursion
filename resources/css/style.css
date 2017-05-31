@@ -1,17 +1,37 @@
 * {
   font-family: Verdana;
+  color: #fff;
   background-color: #000;
   text-align: center;
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
-  color: #fff;
 }
 
 a {
   font-size: 16px;
   color: #7fffd4;
   text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#grey {
+  font-size: 21px;
+  color: #808080;
+}
+
+img {
+  border-radius: 4px;
+}
+
+.footer p {
+  color: #808080;
+  font-size: 16px;
+  text-align: right;
 }
